@@ -222,6 +222,7 @@ li:hover {
   .headline button {
     width: 80%;
     align-self: center;
+    margin: 0;
   }
 }
 
@@ -369,7 +370,10 @@ h5 {
     font-size: 1.45rem;
     text-align: left;
     font-weight: 300;
-    padding-bottom: .5rem;
+  }
+  .course {
+    opacity: 1;
+    height: 3.5rem;
   }
   .course img {
       display: none;
